@@ -11,8 +11,8 @@
 | :--- | :--- | :--- | :--- |
 | **Member 1 (Anne Mukesh Balaji)** | **Data Cleaning & Preparation** | **Problem Statement 1** | Dataset ingestion, duplicate audit, missing value imputation, text normalization, datetime standardization, timeline validation, compensation bounds check, cleaned dataset export, and official data cleaning log. |
 | **Member 2 (Kesiboyina Chandrika)** | **Job Roles & Skills Analysis** | **Problem Statements 2 & 3** | Category frequency distribution, top 15 job titles, full-time vs. internship contract verification, technical skill extraction, top 20 skills overall, category-specific skill breakdown, and skill bundle analysis. |
-| **Member 3 (Chennam Divya)** | **Companies & Location Analysis** | **Problem Statements 4 & 5** | Top 10 employers analysis, enterprise scale & company types, single-industry boundary check, top metropolitan cities & states, and work-mode flexibility (remote/hybrid/on-site) cross-tabulations. |
-| **Member 4 (Chinnam Joshitha)** | **Salary, Experience & Final Insights** | **Problem Statements 6, 7 & 8** | Full-time salary distributions & midpoints, independent monthly internship stipend analysis, experience requirements, educational qualifications, applicant volume & career growth indicators, executive dashboard, and evidence-backed career recommendations. |
+| **Member 3 (Chinnam Joshitha)** | **Companies & Location Analysis** | **Problem Statements 4 & 5** | Top 10 employers analysis, enterprise scale & company types, single-industry boundary check, top metropolitan cities & states, and work-mode flexibility (remote/hybrid/on-site) cross-tabulations. |
+| **Member 4 (Chennam Divya)** | **Salary, Experience & Final Insights** | **Problem Statements 6, 7 & 8** | Full-time salary distributions & midpoints, independent monthly internship stipend analysis, experience requirements, educational qualifications, applicant volume & career growth indicators, executive dashboard, and evidence-backed career recommendations. |
 
 ---
 
@@ -80,7 +80,7 @@ Per official hackathon guidelines, this project strictly uses **Python, NumPy, P
 ---
 
 ## Member 3 — Companies & Location Analysis
-**Responsible Member:** **Chennam Divya**
+**Responsible Member:** **Chinnam Joshitha**
 
 ### Problem Statement 4 — Analyse Companies and Industry Representation
 * **Top Employers Analysis:** 12 major employers contribute evenly between 8,160 and 8,517 postings (~8.2% to 8.5% share), led by HCLTech (8,517), Tech Mahindra (8,467), and Cognizant (8,445). Listings reflect platform postings, not total employer headcount.
@@ -94,7 +94,7 @@ Per official hackathon guidelines, this project strictly uses **Python, NumPy, P
 ---
 
 ## Member 4 — Salary, Experience & Final Insights
-**Responsible Member:** **Chinnam Joshitha**
+**Responsible Member:** **Chennam Divya**
 
 ### Problem Statement 6 — Analyse Salary Ranges and Internship Stipends
 * **Full-Time Salary Modeling (n = 59,871):**
